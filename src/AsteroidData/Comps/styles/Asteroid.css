@@ -1,0 +1,11 @@
+.AsteroidContainer {
+  position: relative;
+}
+.backBtn {
+  position: absolute;
+  top: 2vw;
+  left: 2%;
+  font-size: 3vw;
+  color: #3da9c8;
+  cursor: pointer;
+}

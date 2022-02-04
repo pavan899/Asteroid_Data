@@ -1,0 +1,77 @@
+@media only screen and (max-width: 650px) {
+  .flexBoxes {
+    width: 92% !important;
+    padding: 3% 1% !important;
+    font-size: 5vw !important;
+    line-height: 10vw !important;
+    margin: 3% !important;
+  }
+  .unitsContainer {
+    font-size: 3vw !important;
+    position: relative !important;
+    transform: translate(0) !important;
+  }
+  .asteroidCards .cards {
+    width: 95% !important;
+  }
+  .asteroidCards .table {
+    font-size: 2.5vw !important;
+  }
+  .tableUnits {
+    position: relative !important;
+    transform: translate(0%, 50%) !important;
+    top: 0 !important;
+    right: 0 !important;
+    font-size: 2.25vw !important;
+  }
+  .asteroidCards .title {
+    font-size: 5vw !important;
+  }
+  .backBtn {
+    font-size: 11vw !important;
+  }
+  .logoContainer {
+    font-size: 7vw !important;
+  }
+  .leftContainer {
+    flex-wrap: wrap !important;
+    height: auto !important;
+    position: relative !important;
+    align-items: flex-start !important;
+  }
+  .dateForm {
+    font-size: 5vw !important;
+    flex-wrap: wrap !important;
+    width: 100% !important;
+    height: auto !important;
+    justify-content: space-around !important;
+  }
+  .startDate,
+  .endDate {
+    width: auto !important;
+  }
+  .startDateBox,
+  .endDateBox {
+    margin: 3vw 1.5vw !important;
+    flex-direction: column !important;
+  }
+  .rightContainer {
+    top: 0 !important;
+  }
+  .card {
+    width: 80% !important;
+    padding: 6% !important;
+    height: auto !important;
+    margin: 0 4% 6% 4% !important;
+  }
+  .cardInner {
+    width: 100% !important;
+    font-size: 5vw !important;
+    line-height: 10vw !important;
+  }
+  .dateLabel {
+    font-size: 5.5vw !important;
+    width: 84% !important;
+    margin: 6% !important;
+  }
+}

@@ -1,0 +1,20 @@
+.cardInner {
+  text-align: left;
+  width: 100%;
+  font-size: 1.1vw;
+  line-height: 2.5vw;
+  font-weight: 500;
+}
+.cardInner .value {
+  font-weight: 300;
+  position: relative;
+}
+.units {
+  position: absolute;
+  right: -0.5vw;
+  top: 0;
+  transform: translateX(100%);
+  font-size: 1.15vw;
+  border: none;
+  outline: none;
+}
